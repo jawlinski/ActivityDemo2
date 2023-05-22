@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityDemo2</string>
+    <string name="btnZurZweitenActivity">Starte zweite Activity</string>
+    <string name="btnZurDrittenActivity">Starte dritte Activity</string>
+    <string name="btnZurueck">Zurueck zur ersten Activity</string>
+    <string name="txtEingabe">Texteingabe</string>
+
+</resources>
